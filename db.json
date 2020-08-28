@@ -1,33 +1,33 @@
 {
   "banner": [
-    "gs://spiserv1-36356.appspot.com/Banner/image1.jfif",
-    "gs://spiserv1-36356.appspot.com/Banner/image2.jfif",
-    "gs://spiserv1-36356.appspot.com/Banner/image3.jfif"
+    "https://github.com/joaofelipeneves/spiserv1api/blob/master/banner-1.jpg",
+    "https://github.com/joaofelipeneves/spiserv1api/blob/master/banner-2.jpg",
+    "https://github.com/joaofelipeneves/spiserv1api/blob/master/banner-3.png"
   ],
   "categories": [
     {
       "id": 1,
       "name": "Pratos",
       "color": "#fbc831",
-      "image": "gs://spiserv1-36356.appspot.com/Categorias/classes1.jfif"
+      "image": "https://github.com/joaofelipeneves/spiserv1api/blob/master/classes1.jfif"
     },
     {
       "id": 2,
       "name": "Hamburgers",
       "color": "#9fd236",
-      "image": "gs://spiserv1-36356.appspot.com/Categorias/classes3.jfif"
+      "image": "https://github.com/joaofelipeneves/spiserv1api/blob/master/classes3.jfif"
     },
     {
       "id": 3,
       "name": "Pizzas",
       "color": "orange",
-      "image": "gs://spiserv1-36356.appspot.com/Categorias/classes2.jfif"
+      "image": "https://github.com/joaofelipeneves/spiserv1api/blob/master/classes2.jfif"
     },
     {
       "id": 4,
       "name": "Drinks",
       "color": "#f2f2f2",
-      "image": "gs://spiserv1-36356.appspot.com/Categorias/classes4.jfif"
+      "image": "https://github.com/joaofelipeneves/spiserv1api/blob/master/classes4.jfif"
     }
   ],
   "food": [
@@ -35,97 +35,97 @@
       "name": "Arroz e fritas",
       "price": 24,
       "categorie": 1,
-      "image": "gs://spiserv1-36356.appspot.com/Pratos/arrozfritaspng.jfif"
+      "image": "https://github.com/joaofelipeneves/spiserv1api/blob/master/arrozfritaspng.jfif"
     },
     {
       "name": "Arroz e milanesa",
       "price": 20,
       "categorie": 1,
-      "image": "gs://spiserv1-36356.appspot.com/Pratos/arrozmilanesapng.jfif"
+      "image": "https://github.com/joaofelipeneves/spiserv1api/blob/master/arrozmilanesapng.jfif"
     },
     {
       "name": "lasanha",
       "price": 21,
       "categorie": 1,
-      "image": "gs://spiserv1-36356.appspot.com/Pratos/lasanhapng.jfif"
+      "image": "https://github.com/joaofelipeneves/spiserv1api/blob/master/lasanhapng.jfif"
     },
     {
       "name": "Macarrão",
       "price": 22,
       "categorie": 1,
-      "image": "gs://spiserv1-36356.appspot.com/Pratos/macarraopng.jfif"
+      "image": "https://github.com/joaofelipeneves/spiserv1api/blob/master/macarraopng.jfif"
     },
     {
       "name": "Hamburguer e bacon",
       "price": 16,
       "categorie": 2,
-      "image": "gs://spiserv1-36356.appspot.com/Hamburguers/baconhmgpng.jfif"
+      "image": "https://github.com/joaofelipeneves/spiserv1api/blob/master/baconhmgpng.jfif"
     },
     {
       "name": "Hamburguer e ovo",
       "price": 16,
       "categorie": 2,
-      "image": "gs://spiserv1-36356.appspot.com/Hamburguers/egghmgpng.jfif"
+      "image": "https://github.com/joaofelipeneves/spiserv1api/blob/master/egghmgpng.jfif"
     },
     {
       "name": "Hamburguer de frango",
       "price": 16,
       "categorie": 2,
-      "image": "gs://spiserv1-36356.appspot.com/Hamburguers/frangomhgpng.jfif"
+      "image": "https://github.com/joaofelipeneves/spiserv1api/blob/master/frangomhgpng.jfif"
     },
     {
       "name": "X-Burguer",
       "price": 16,
       "categorie": 2,
-      "image": "gs://spiserv1-36356.appspot.com/Hamburguers/queijohmgpng.jfif"
+      "image": "https://github.com/joaofelipeneves/spiserv1api/blob/master/queijohmgpng.jfif"
     },
     {
       "name": "Pizza de 4 queijos",
       "price": 14,
       "categorie": 3,
-      "image": "gs://spiserv1-36356.appspot.com/Pizzas/pizza4queijospng.jfif"
+      "image": "https://github.com/joaofelipeneves/spiserv1api/blob/master/pizza4queijospng.jfif"
     },
     {
       "name": "Pizza de calabresa",
       "price": 14,
       "categorie": 3,
-      "image": "gs://spiserv1-36356.appspot.com/Pizzas/pizzacalabresapng.jfif"
+      "image": "https://github.com/joaofelipeneves/spiserv1api/blob/master/pizzacalabresapng.jfif"
     },
     {
       "name": "Pizza de frango",
       "price": 13,
       "categorie": 3,
-      "image": "gs://spiserv1-36356.appspot.com/Pizzas/pizzafrangopng.jfif"
+      "image": "https://github.com/joaofelipeneves/spiserv1api/blob/master/pizzafrangopng.jfif"
     },
     {
       "name": "Pizza de Peperoni",
       "price": 16,
       "categorie": 3,
-      "image": "gs://spiserv1-36356.appspot.com/Pizzas/pizzapeperonipng.jfif"
+      "image": "https://github.com/joaofelipeneves/spiserv1api/blob/master/pizzapeperonipng.jfif"
     },
     {
       "name": "Coca cola",
       "price": 2,
       "categorie": 4,
-      "image": "gs://spiserv1-36356.appspot.com/Bebidas/cocapng.jfif"
+      "image": "https://github.com/joaofelipeneves/spiserv1api/blob/master/cocapng.jfif"
     },
     {
       "name": "Guarana",
       "price": 2,
       "categorie": 4,
-      "image": "gs://spiserv1-36356.appspot.com/Bebidas/guaranapng.jfif"
+      "image": "https://github.com/joaofelipeneves/spiserv1api/blob/master/guaranapng.jfif"
     },
     {
       "name": "Fanta",
       "price": 2,
       "categorie": 4,
-      "image": "gs://spiserv1-36356.appspot.com/Bebidas/fantapng.jfif"
+      "image": "https://github.com/joaofelipeneves/spiserv1api/blob/master/fantapng.jfif"
     },
     {
       "name": "H2OH",
       "price": 2,
       "categorie": 4,
-      "image": "gs://spiserv1-36356.appspot.com/Bebidas/h2olimonetopng.jfif"
+      "image": "https://github.com/joaofelipeneves/spiserv1api/blob/master/h2olimonetopng.jfif"
     }
   ]
 }
